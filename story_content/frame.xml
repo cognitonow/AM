@@ -6,7 +6,6 @@
     <layout name="npxnabnsnfns00000000001" font="Calibri" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
     <layout name="npnxnanbnsnfns00000000001" font="Calibri" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
     <layout name="pxabnsnfns00000000000" font="Calibri" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabsnfns00000000001" font="Calibri" controllayout="pxabsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
     <layout name="pnxanbnsnfns00000000001" font="Calibri" controllayout="pnxanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
@@ -15,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Affiliate Marketing" />
+              <option name="title_text" value="Affiliate Marketing " />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -197,29 +196,6 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
-    </control_layout>
-    <control_layout name="pxabsnfns00000000001">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="true" />
-      <control name="submit" enabled="true" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
     </control_layout>
     <control_layout name="pnxanbnsnfns00000000001">
       <control name="volume" enabled="false" />
@@ -1223,30 +1199,25 @@
       <links>
         <slidelink slideid="_player.6C8ANGkufdi" displaytext="Intro" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6C8ANGkufdi.6i971HVzT2U" displaytext="QUESTION?" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.6HHunfbqy3e" displaytext="QUESTION?" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.5wFFwy9Y7HJ" displaytext="QUESTION?" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZgA3a6AO8D.6i971HVzT2U" displaytext="QUESTION?" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZgA3a6AO8D.6HHunfbqy3e" displaytext="QUESTION?" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZgA3a6AO8D.5wFFwy9Y7HJ" displaytext="QUESTION?" expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.5emWFuiUjZX" displaytext="HOW TO CHOOSE A " expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.5g42cm9OA2J" displaytext="5 OF THE MOST SUCCESSFUL " expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.6rfDYRRnE2p" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.5dMDwiCjM2M" displaytext="3 TIPS TO MAKE HUGE " expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.6NGdoKl76nP" displaytext="You want a business that has potential to growth so its worth the investment in time and money?" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.68J2GK5ovD4" displaytext="POP QUIZ TIME!" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.5gPrTVhhpeG" displaytext="POP QUIZ TIME!" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.5ilZecqeIWb" displaytext="You want to start a risk free business with little or low start up cost?" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.6Df58it9zG0" displaytext="You want to Gain REAL Financial Independence that is not a 9 to 5 job." expand="false" type="slide" />
+            <slidelink slideid="_player.6ZgA3a6AO8D.5gPrTVhhpeG" displaytext="POP QUIZ TIME!" expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.5ennp9QV0ti" displaytext="SO SHOULD YOU START " expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.6lFwQCtrBEq" displaytext="3 TIPS TO MAKE HUGE " expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.5oC5zgHZdS8" displaytext="HOW TO CHOOSE A " expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.6bxsjjxV74O" displaytext="AFFILIATE MARKETING" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.5zmghFVqUcU" displaytext="SO GO ANDD START YOUR AFFILIATE " expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.5yrAhNoGg4F" displaytext="PROMOTE IT ??" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.67DxR5SRsdZ" displaytext="PROMOTE IT ??" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.6ka1DsHmMoM" displaytext="PROMOTE IT ??" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.5kltpkf4gjx" displaytext="PROMOTE IT ??" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZgA3a6AO8D.69QN7pTfkgO" displaytext="Select 3 things you can earn a comission on as an affiliate:" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZgA3a6AO8D.6Kos7wfoTkt" displaytext="QUESTION?" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZgA3a6AO8D.6BBA1Ir8tQa" displaytext="GO AND START YOUR AFFILIATE " expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.6oa5EeuFGMm" displaytext="AFFILIATE MARKETING" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="" displaytext="Quiz" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
